@@ -1,0 +1,63 @@
+.cpf1{
+    display: flex;
+    width: 100%;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+ 
+}
+.cpf1f1{
+    width: 25%;
+    height:60vh;
+    background-color: rgb(214, 214, 214);
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cpf1f2{
+    display: flex;
+    flex-direction: column;
+    width:40%;
+    height: 60vh;
+    background-color: rgb(255, 255, 255);
+    gap: 20px;
+    
+}
+.cpf1f1file{
+    width: 70%;
+}
+.cpf1f2l{
+    font-size:12px;
+    color: rgb(189, 189, 189);
+}
+.cpf1f2i{
+    border-style: solid;
+    border-width:2px;
+    border-color: rgb(176, 176, 176);
+    width:80%;
+}
+.cpf1f2b{
+    text-decoration: none;
+    Padding:10px 0px 10px  0px;
+  background-color: rgb(255, 102, 0);
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  width: 30%;
+  border-style: none;
+  border-radius: 5px; 
+  margin-top: 15px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 170px;
+}
+.cpf1f2t{
+    border-style: solid;
+    border-width:2px;
+    border-color: rgb(176, 176, 176);
+    width:80%;
+    border-radius: 15px;
+    font-size: 18px;
+    resize: none;
+}

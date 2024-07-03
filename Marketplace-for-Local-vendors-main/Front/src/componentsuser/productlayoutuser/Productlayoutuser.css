@@ -1,0 +1,33 @@
+.outerr{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:rgb(229, 213, 192);
+    
+
+   
+    
+}
+.inner{
+    align-items: center;
+     width:30%;
+     height: fit-content;
+     margin-top: 30px;
+   
+    background-color:#ffffff;
+    padding:20px;
+    border-radius: 15px;
+
+    border: 1px solid black;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    
+
+
+   
+    
+    
+} 
